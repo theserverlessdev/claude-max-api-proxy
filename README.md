@@ -1,3 +1,6 @@
+> [!WARNING]
+> **This project is no longer maintained or supported.** The repository is archived and read-only. Issues and pull requests won't be answered.
+
 # Claude Code CLI Provider
 
 **Use your Claude Max subscription ($200/month) with any OpenAI-compatible client — no separate API costs!**
